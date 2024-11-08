@@ -1,0 +1,2 @@
+Machine learning, a subset of artificial intelligence, enables systems to learn from data and improve.
+It is extensively used for predictive analytics and has seen tremendous growth in real-world applications.
